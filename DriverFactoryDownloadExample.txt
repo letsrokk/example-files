@@ -1,3 +1,0 @@
-DriverFactoryDownloadExample
-ВерсияФормата=1.01
-Кодировка=Windows-1251
